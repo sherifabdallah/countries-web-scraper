@@ -7,7 +7,7 @@ import re
 
 
 # To Get urls file write in terminal
-# wget --output-file=malawi.txt --recursive --spider --include-directories="/settlement/,/explore-our-data/country/" http://sdinet.org/explore-our-data/country/?country=malawi
+# wget --output-file=country.txt --recursive --spider --include-directories="/settlement/,/explore-our-data/country/" http://sdinet.org/explore-our-data/country/?country=country
 
 
 txt_filename = str(input('Enter file Name : '))
