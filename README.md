@@ -10,11 +10,9 @@ Scrapping data from [sdinet.org](https://sdinet.org/) and exporting It to csv an
 
 ## Tools
 1. Python
-2. Flask
-3. SQLAlchemy
-4. CSS
-5. JavaScript
-6. Bootstrap
+2. beautifulsoup4
+3. requests
+4. wget
 
 ## How to run
 * Enter the directory where the script is located then type the following to the console
