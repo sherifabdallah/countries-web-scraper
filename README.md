@@ -5,7 +5,7 @@ Scrapping data from [sdinet.org](https://sdinet.org/) and exporting It to csv an
 ## Table of Content
 - [Countries web scraper](#Countries-web-scraper)
   * [Tools](#tools)
-  * [How to run]
+  * [How to run](#how-to-run)
   * [Author](#author)
 
 ## Tools
