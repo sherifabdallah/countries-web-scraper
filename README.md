@@ -42,7 +42,7 @@ $ source venv/bin/activate
 Note the `(venv)` in front of the prompt. This indicates that this terminal
 session operates in a virtual environment set up by `virtualenv`.
 
-Replace `kenya` in those arguments `--output-file` and `?country=` with the country you want to scrape 
+Replace `kenya` in those arguments `--output-file` and `?country=` with the country name you want to scrape 
 ```sh
 wget --output-file=kenya.txt --recursive --spider --include-directories="/settlement/,/explore-our-data/country/" http://sdinet.org/explore-our-data/country/?country=kenya
 ```
