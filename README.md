@@ -17,7 +17,7 @@ Scrapping data from [sdinet.org](https://sdinet.org/) and exporting It to csv an
 ## How to run
 * Enter the directory where the script is located then type the following to the console
 ```sh
-$ https://github.com/sherif-abdallah/countries-web-scraper countries-web-scraper
+$ git clone https://github.com/sherif-abdallah/countries-web-scraper countries-web-scraper
 ```
 * Install Python 3.8 venv, pip and compiler
 
@@ -35,7 +35,7 @@ $ source venv/bin/activate
 * Then install the dependencies:
 
 ```sh
-(venv)$ cd flask-blog
+(venv)$ cd countries-web-scraper
 (venv)$ python -m pip install --upgrade pip
 (venv)$ python -m pip install -r requirements.txt
 ```
