@@ -17,7 +17,7 @@ Scrapping data from [sdinet.org](https://sdinet.org/) and exporting It to csv an
 ## How to run
 * Enter the directory where the script is located then type the following to the console
 ```sh
-$ git clone https://github.com/sherif-abdallah/countries-web-scraper countries-web-scraper
+$ git clone https://github.com/sherifabdallah/countries-web-scraper countries-web-scraper
 ```
 * Install Python 3.8 venv, pip and compiler
 
@@ -53,5 +53,5 @@ wget --output-file=kenya.txt --recursive --spider --include-directories="/settle
 ```
 
 ## Author
-[Sherif Abdullah](https://github.com/sherif-abdallah)
+[Sherif Abdullah](https://github.com/sherifabdallah)
 
